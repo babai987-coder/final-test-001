@@ -1,9 +1,8 @@
-### Overview
-This is a simple web app that generates random quotes when the user clicks the "Generate Quote" button.
+## Overview
+This is a simple web app that generates random quotes each time the "Generate Quote" button is clicked.
 
-### Setup
-No specific setup is required. Simply open the `index.html` file in a web browser.
+## Setup
+Simply open the `index.html` file in a web browser to use the random quote generator.
 
-### Usage
-1. Open the web app in a browser.
-2. Click the "Generate Quote" button to see a random quote displayed on the screen.
+## Usage
+Click the "Generate Quote" button to display a random quote on the screen.
